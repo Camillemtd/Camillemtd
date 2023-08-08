@@ -1,5 +1,5 @@
 W# 💫 About Me:
-I'm a former veterinary nurse who decided to switch careers and become a web developer since December 2022 through training with Openclassrooms. Currently, I'm very interested in design and frontend development, and I've started learning web3 with Solidity. From August 2023, I'll be going to Canada for a working holiday to pursue my newfound passion and explore a new place. Feel free to send me a message if you have any advice on development or just want to chat.
+Hello, since December 2022, I have changed careers to become a web developer through training with Openclassrooms. Currently, I am doing an internship with the LFX Foundation on the Vitess project, and I am responsible for creating the entire front end. I am also in the process of learning Golang in my spare time. In August 2023, I am heading to Canada to live, in order to pursue my newfound passion and explore a new place. Please feel free to send me a message if you have any development advice or if you simply want to chat.
 
 
 ## 🌐 Socials:
